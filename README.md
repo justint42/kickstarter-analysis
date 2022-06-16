@@ -22,9 +22,9 @@ Understanding theater outcomes by launch date entailed organizing the successes,
 
 We created our analysis of Outcomes by Launch Dates. Now, we must find more from Outcomes Based on (monetary) Goals. What Goal ranges displayed the most promise and failure? Manually creating a table with a numerical and percentage dissection of success, failure, and cancellation would help. After typing in my Goal ranges (in sections of 5000s), I first extrapolated the number of successes within the desired ranges using the **COUNTIFS()** function. Examples of the first two range inputs are below. 
 
-<img width="579" alt="Less_Than_1000_Successful" src="https://user-images.githubusercontent.com/106895220/174018038-7715cda7-d7e6-4c88-9680-4ee906f777fc.png">
+<img width="551" alt="Less_Than_1000" src="https://user-images.githubusercontent.com/106895220/174160572-6c741e1e-42c7-4ad2-bb6b-1b6c796fb3b9.png">
 
-<img width="760" alt="1000_to_4999_Successful" src="https://user-images.githubusercontent.com/106895220/174018860-0ef39e92-1630-4bf8-8525-c0ed4dfba9f6.png">
+<img width="720" alt="1000_to_4999" src="https://user-images.githubusercontent.com/106895220/174160587-c9e4a698-a067-4867-8e2b-efc3dfd8efe9.png">
 
 I follwed suit for the remainder of my Outcomes and their ranges. I then used **SUM()** to total out my rows. Finally, I divided the relevant Outcomes by their totals to get my percentages (I formatted the cells as "Percentage" so as to retain the % sign). Note that, despite their failures, no plays were canceled.
 
