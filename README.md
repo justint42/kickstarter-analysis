@@ -51,7 +51,7 @@ Success heavily depends on the goal; the success-to-failure ratio equalizes at t
 
 - What are some limitations of this dataset?
 
-The dataset does not consider geographic differences (does one country enjoy summer plays more than another?). Also, it does not consider the state of the world during this year. Could there possibly be any artistic trends that lead the audience towards trusting play kickstarters than other mediums? It could be that plays hold less risk than other subcategories (video games, television, etc.). I would like to see what the average donations are like for all outcomes and what kind of plays people are putting down money for (a genre column maybe?). 
+The dataset does not consider geographic differences (does one country enjoy summer plays more than another?). Also, it does not consider the state of the world during this year. Could there possibly be any artistic trends that lead the audience towards trusting play kickstarters more than other mediums? It could be that plays hold less risk than other subcategories (video games, television, etc.). I would like to see what the average donations are like for all outcomes and what kind of plays people are putting down money for (a genre column maybe?). 
 
 - What are some other possible tables and/or graphs that we could create?
 
