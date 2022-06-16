@@ -12,7 +12,7 @@ This project examines how different kickstarter campaigns fared in relation  to 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-Understanding theater outcomes by launch date entailed organizing the successes, failures, and cancellations by the months at which they were implemented. With the module completion setting up the foundation for this work, the **Unix Timestamp** conversion simply required me to follow directions from the module. Now that I had my dates, Excel could now identify the timeline of kickstarter plays. The **Pivot Table** below is a tabular description of theatre outcomes throughout the year. It is filtered by Parent Category and Years with Columns of Outcomes, Rows of Date Creation, and a Count of Values. A linear, visual explanation of theatre outcomes (created from the **PivotChart** portion of excel) is secondly displayed.
+Understanding theater outcomes by launch date entailed organizing the successes, failures, and cancellations by the months at which they were implemented. With the module completion setting up the foundation for this work, the **Unix Timestamp** conversion simply required me to follow directions from the module. Now that I had my dates, Excel could identify the timeline of kickstarter plays. The **Pivot Table** below is a tabular description of theatre outcomes throughout the year. It is filtered by Parent Category and Years with Columns of Outcomes, Rows of Date Creation, and a Count of Values. A linear, visual explanation of theatre outcomes (created from the **PivotChart** portion of excel) is secondly displayed.
 
 <img width="323" alt="Theater Outcomes Table" src="https://user-images.githubusercontent.com/106895220/174009980-d2f17418-fa98-4cb4-9bd8-0373221c20a7.png">
 
