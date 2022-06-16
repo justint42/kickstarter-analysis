@@ -3,7 +3,7 @@
 ## Overview of Project
 Louise, a playwright, is examining a tabular dataset of past crowdfunding projects on Excel to successfully lead a fundraiser for a play. 
 ### Purpose
-This project examines how different kickstarter campaigns fared in relation  to their launch dates and their funding goals. Creating visualizations of this relationship is paramount to identifying certain points-of-interest to effectively execute the next round of play-focused kickstarters. Moreover, the purpose of this project is to exercise the user's ability to use Excel as analytical tool to reveal interesting insights and relevant attributes for what is important for the success of future projects. Inversely, these insights will assist in finding why certain projects failed. Technically, this project's purpose served the user in:
+This project examines how different kickstarter campaigns fared in relation  to their launch dates and their funding goals. Creating visualizations of this relationship is paramount to identifying certain points-of-interest to effectively execute the next round of play-focused kickstarters. Moreover, the purpose of this project is to exercise the user's ability to use Excel as an analytical tool to reveal interesting insights and relevant attributes for what is important for the success of future projects. Inversely, these insights will assist in finding why certain projects failed. Technically, this project's purpose served the user in:
 - converting **Unix Timestamps** into the mm/dd/yyyy format
 - creating **Pivot Tables** to quickly summarize data
 - deriving **Pivot Charts** from Pivot Tables to visualize summaries of outcomes
