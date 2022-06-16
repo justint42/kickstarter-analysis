@@ -47,7 +47,7 @@ The Summer is peak season for plays. However, there is a diminishing slope until
 
 - What can you conclude about the Outcomes based on Goals?
 
-Success heavily depends on the goal; the success-to-failure ratio equalizes at the 15000 to 19999 range. The 1000 to 4999 range is the most optimal. Risk of failure increases for every increasing range. While minimal, the positive success ratios of 35000 to 39999 and 40000 to 44999 are significant (massive audience undertakings - projects with high, perceived realistic potential/expectations?). 
+Success heavily depends on the goal; the success-to-failure ratio equalizes at the 15000 to 19999 range. The 1000 to 4999 range is the most optimal. Risk of failure increases as range increases. While minimal, the positive success ratios of 35000 to 39999 and 40000 to 44999 are significant (massive audience undertakings - projects with high, perceived realistic potential/expectations?). 
 
 - What are some limitations of this dataset?
 
